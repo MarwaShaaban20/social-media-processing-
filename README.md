@@ -6,7 +6,7 @@ This project focuses on **processing and visualizing social media data** to unco
 - **Social Media Addiction vs Relationships (Kaggle)**  
   A comprehensive dataset containing anonymized records of students' social-media behaviors, addiction levels, and relationship outcomes.  
   You can access it here:  
-  https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships :contentReference[oaicite:0]{index=0}
+  https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships 
 
 ##  Project Steps
 1. **Data Loading & Cleaning**  
